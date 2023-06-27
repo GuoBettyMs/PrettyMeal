@@ -6,79 +6,97 @@ Ajinkya Kardile：开发人员
 
 平台:Android studio ,语言: java
 
-1.启动动画
-![Slpash](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/e0e30110-969b-42cc-8820-ab4772abab0a)
+1.启动页动画
+
+![Slpash](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/3f00f01b-99c1-46e4-a5f9-d26365751dc9)
 
 
 2.用户注册功能
-![customer_register](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/e1961439-1d15-4936-a4d3-f3c909f2509e)
+
+![customer_register](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/e153c24a-3721-472b-8607-cca7cbbf3566)
 
 
 3.用户登录功能
-![customer_login](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/a76db48e-c3a3-4650-9a0e-1cfae9de9df0)
+
+![customer_login](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/fc6f99ba-1be0-4c9b-9df0-1c68343eebc6)
 
 
 4.用户主页
-![customer_home](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/cee3cc88-1b09-4a20-ba5f-b98e6e8dd255)
+
+![customer_home](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/9bafd6a6-28ee-45d6-a640-237cc04c2468)
 
 
 5.用户个人页
-![customer_profile](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/589663ca-932c-4c5f-9d51-6ea6379c7f17)
+
+![customer_profile](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/f20a44bf-030a-4eab-8524-0e07f73e9e98)
 
 
 6.用户钱包页
-![customer_wallet](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/4f2d6adc-68c4-4518-9c5e-198655280829)
+
+![customer_wallet](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/8c666002-5849-45eb-8aec-2d4e6b369863)
 
 
 7.用户主页菜单详情页面
-![customer_home_mess detail 1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/d7a77882-9b1c-4930-9bad-40f08580e7e0)
-![customer_home_Mess detail 2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/bfde9103-1525-4731-bc2a-8f5bf246df97)
+
+![customer_home_mess detail 1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/fa24c7e2-cb19-4af2-9863-631f4fc81e58)
+![customer_home_Mess detail 2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/76daca0b-11ba-4483-8d47-cf172c3f854e)
 
 
 8.商家注册功能
-![business_register1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/f47cd38b-ab03-4ae4-850c-e9bb6bcb2969)
-![business_register2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/d934c3ac-4da5-426e-9be8-0e74fb8bcdc0)
+
+![business_register1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/b6f804a7-41b0-41fe-b432-0bba20ba6649)
+![business_register2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/dd839d8d-0b07-4d39-b578-36cd31a0ba09)
 
 
 9.商家登录功能
-![business_login](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/73d0e3e0-9847-41bd-971b-15ec0a1ebec3)
+
+![business_login](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/1b785a17-efbb-4080-8f12-756bc28428b6)
 
 
 10.商家个人信息编辑功能和退出功能
-![business_profile](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/003cfeb9-c305-43b0-b135-beca9ffe6861)
-![business_profile](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/d9da218e-912e-4bfe-bfd2-c00e48100e42)
+
+![business_profile](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/f0dc49d7-61cb-4a88-8350-8204a6aff6be)
+![business_profile_logout](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/9de1ecc2-5e6a-4a2c-848b-2565a1c5c270)
 
 
 11.商家主页
-![business_home1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/1759e93e-8d68-46c5-9aca-fc3b288bbac0)
-![business_home2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/95fd4a18-0db5-485f-96ad-1521701eb204)
+
+![business_home1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/e0102677-387d-4d32-96d7-26e05f87765a)
+![business_home2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/06912a13-d731-4b6b-877e-f34a471cf87f)
 
 
 12.商家编辑菜单功能
-![business_editMenu](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/defd53eb-d810-4b71-a81b-3a29c5b1a3d9)
-![business_editMenu_additem](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/81468a42-d9f1-4041-bf76-6587ef65e6b1)
+
+![business_editMenu](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/c2b7acb7-28dc-4d51-89d0-fd19353a7c18)
+![business_editMenu_additem](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/2c1c677b-08e7-44ef-97e1-b54b9b829c32)
 
 
 13.商家菜单信息编辑功能
-![business_editMessinfo](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/a7aac019-ee60-4c65-bcc2-2ad8ee6db6b7)
+
+![business_editMessinfo](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/4bbf8345-04a2-4537-b46f-8817b566687b)
 
 
 14.密码重设功能
-![customer_resetpassword](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/57bfeeea-7761-42a7-a689-b84a2472b542)
+
+![customer_register](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/a69d344e-d2bb-4902-aec0-01c7191e26d9)
 
 
 15.定位功能
-![AddressPicker1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/53b918a7-396f-4d73-91d2-3d5001127c2c)
-![AddressPicker2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/285d8258-02b1-4ca9-a9b8-fd9057fee84c)
+
+![AddressPicker1](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/12c33872-2c33-44d0-bc22-f5c3fc2b8be2)
+![AddressPicker2](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/284bb40c-8cfe-49d1-8657-0f0e4535444f)
 
 
 16.分享页面
 (用户)
-![customer_wallet_contact](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/405659cd-3f06-42d6-a010-40dc34c51587)
+![customer_wallet_contact](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/ccc5b311-3b67-4b37-bf2f-214fcaa810ad)
+
 (商家)
-![business_support](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/7a5fa92f-cb6e-46f7-9b32-fe771ab9619c)
+![business_support](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/b8a311ec-51d8-4a80-979b-bcdafa3fe65c)
 
 
 17.介绍界面
-![business_aboutUs](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/02b4b826-ab20-4593-a03b-b0c105f65aac)
+
+![business_aboutUs](https://github.com/GuoBettyMs/PrettyMeal/assets/110532030/9ad8d966-89a3-4586-9836-35b0a7f17c28)
+
 
